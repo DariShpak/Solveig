@@ -1,0 +1,22 @@
+:root {
+  --accent-color: #d2f65a;
+  --background-muted: #f8f8f8;
+  --text-default: #000000;
+  --background-white: #ffffff;
+}
+
+body{
+  background-color: var(--background-white);
+  color: var(--text-default);
+
+  
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+}
