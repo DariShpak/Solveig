@@ -9,28 +9,24 @@
   font-family: "Clash Display";
   src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
   font-weight: 300;
-  font-style: normal;
 }
 
 @font-face {
   font-family: "Clash Display";
   src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
   font-weight: 500;
-  font-style: normal;
 }
 
 @font-face {
   font-family: "Clash Display";
   src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
   font-weight: 600;
-  font-style: normal;
 }
 
 @font-face {
   font-family: "Clash Display";
   src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
   font-weight: 700;
-  font-style: normal;
 }
 
 body {
@@ -110,7 +106,7 @@ a {
   text-transform: uppercase;
 }
 
-.text-medium{
+.text-medium {
   font-size: 20px;
   font-weight: 500;
   line-height: 120%;
