@@ -6,32 +6,8 @@
   --background-white: #ffffff;
 }
 
-@font-face {
-  font-family: "Clash Display";
-  src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Clash Display";
-  src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
-  font-weight: 500;
-}
-
-@font-face {
-  font-family: "Clash Display";
-  src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
-  font-weight: 600;
-}
-
-@font-face {
-  font-family: "Clash Display";
-  src: url("/fonts/ClashDisplay-Variable.ttf") format("truetype");
-  font-weight: 700;
-}
-
 body {
-  font-family: "Clash Display", sans-serif;
+  font-family: "Inter", sans-serif;
   background-color: var(--background-white);
   color: var(--text-default);
 }
